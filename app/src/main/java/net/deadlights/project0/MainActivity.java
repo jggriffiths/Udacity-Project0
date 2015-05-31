@@ -70,7 +70,7 @@ public class MainActivity extends Activity implements View.OnClickListener {
         }
         if (message != null)
         {
-            Toast.makeText(this, message, Toast.LENGTH_LONG).show();
+            Toast.makeText(this, message, Toast.LENGTH_SHORT).show();
         }
     }
 
