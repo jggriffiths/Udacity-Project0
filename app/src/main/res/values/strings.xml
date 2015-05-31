@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JGG App Portfolio</string>
+    <string name="app_name_title">JGG Nanodegree Apps!</string>
+    <string name="spotify">SPOTIFY STREAMER</string>
+    <string name="scores">SCORES APP</string>
+    <string name="library">LIBRARY APP</string>
+    <string name="buildit">BUILD IT BIGGER</string>
+    <string name="reader">XYZ READER</string>
+    <string name="capstone">CAPSTONE: MY OWN APP</string>
+    <string name="action_settings">Settings</string>
+</resources>
